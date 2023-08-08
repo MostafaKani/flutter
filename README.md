@@ -55,7 +55,7 @@ graphics, video, text, and controls without limitation. Flutter includes a full
 you're building for iOS ([Cupertino]) or other platforms ([Material]), along with
 support for customizing or creating entirely new visual components.
 
-<p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/reflectly-hero-600px.png?raw=true" alt="Reflectly hero image"></p>
+
 
 ### Fast results
 
