@@ -73,7 +73,6 @@ as JavaScript for the web and Intel x64 for desktop devices.
 Flutter offers [stateful hot reload][Hot reload], allowing you to make changes to your code
 and see the results instantly without restarting your app or losing its state.
 
-[![Hot reload animation][]][Hot reload]
 
 ### Extensible and open model
 
